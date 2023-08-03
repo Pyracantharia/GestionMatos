@@ -1,0 +1,72 @@
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe.config
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.pdb
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.AssemblyReference.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.SuggestedBindingRedirects.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Form2SI.resources
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormClients.resources
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Properties.Resources.resources
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.GenerateResource.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.CoreCompileInputs.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.exe
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.pdb
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init2\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormMateriel.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe.config
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.pdb
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.AssemblyReference.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.SuggestedBindingRedirects.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsGMF.FormConnect.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Form2SI.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormClients.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormMateriel.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Properties.Resources.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.GenerateResource.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.CoreCompileInputs.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.exe
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.pdb
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe.config
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.pdb
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.AssemblyReference.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.SuggestedBindingRedirects.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsGMF.FormConnect.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Form2SI.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormClients.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormInscription.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormMateriel.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Properties.Resources.resources
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.GenerateResource.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.CoreCompileInputs.cache
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.exe
+C:\Bac\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.pdb
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe.config
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.pdb
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.AssemblyReference.cache
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.SuggestedBindingRedirects.cache
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsGMF.FormConnect.resources
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Form2SI.resources
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormClients.resources
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormInscription.resources
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormMateriel.resources
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Properties.Resources.resources
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.GenerateResource.cache
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.CoreCompileInputs.cache
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.exe
+M:\Client lourd\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.pdb
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe.config
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.exe
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\bin\Debug\WindowsFormsApp2SI.pdb
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.AssemblyReference.cache
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.SuggestedBindingRedirects.cache
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsGMF.FormConnect.resources
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Form2SI.resources
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormClients.resources
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormInscription.resources
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.FormMateriel.resources
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.Properties.Resources.resources
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.GenerateResource.cache
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.csproj.CoreCompileInputs.cache
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.exe
+M:\Client lourd\tout ce qui faut\WindowsFormsApp2SI\WindowsFormsApp2SI\WindowsFormsApp2SI\obj\Debug\WindowsFormsApp2SI.pdb
